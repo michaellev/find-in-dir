@@ -1,0 +1,14 @@
+{
+  "name": "find-in-dir",
+  "version": "1.0.0",
+  "description": "find string in current dir tree files contents. Filter by file extension. implement by various async methods",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Lev <mlev.mail@gmail.com> (https://github.com/michaellev)",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
